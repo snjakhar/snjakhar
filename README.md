@@ -39,7 +39,7 @@
 </div> -->
 
 <h3 align="center">How to reach me: 📫</h3>
-<div align="center" display="flex">
+<div align="" display="flex">
   <a target="_blank" href="https://www.linkedin.com/in/srinivasjakhar"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
   <a target="_blank" href="mailto: snjakhar.cse@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
