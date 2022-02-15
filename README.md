@@ -8,7 +8,7 @@
 <!-- ![Night-Coding](https://user-images.githubusercontent.com/88575764/142670455-c19ae283-4950-4548-a3dc-26d8a9804b97.gif) -->
 
 <h2 align="center">About me: 👨🏽‍💻</h2>
-<p align="center" ;font-size= "30px">An aspiring full stack web developer who loves to collaborate with people and want to work on creative ideas to build user centric products.</p>
+<h4 align="center">An aspiring full stack web developer who loves to collaborate with people and want to work on creative ideas to build user centric products.</h4>
 
 
 <h2 align="center">Languages and tools: 🧰</h2>
