@@ -8,7 +8,7 @@
 <!-- ![Night-Coding](https://user-images.githubusercontent.com/88575764/142670455-c19ae283-4950-4548-a3dc-26d8a9804b97.gif) -->
 
 <h2 align="center">About me: 👨🏽‍💻</h2>
-<p align="center">I am a Full-stack web developer and I love programming and technology💻. I thrive on challenges and constantly set goals🎯 for myself, so I have something to strive towards. I’m always looking for an opportunity to learn something new and I’m currently learning🌱 React. Other than the tech I love cooking , and I enjoy bike riding a lot</p>
+<p align="center">An aspiring full stack web developer who loves to collaborate with people and want to work on creative ideas to build user centric products.</p>
 
 
 <h2 align="center">Languages and tools: 🧰</h2>
@@ -24,7 +24,8 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+   <img src="https://img.shields.io/badge/Arduino-00979C?style=for-the-badge&logo=arduino&logoColor=white" />
   
 </div>
 
